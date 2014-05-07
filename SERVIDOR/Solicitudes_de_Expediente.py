@@ -64,13 +64,6 @@ class main:
 		builder.connect_signals(dict)
 
 
-<<<<<<< HEAD
-=======
-	# def Comentario(self, widget):
-	# 	self.tbComentario.set_text("")
-
-
->>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
 	def btMostrarRegistrosClick(self, widget):
 		
 		self.lstvSolicitudes.clear()

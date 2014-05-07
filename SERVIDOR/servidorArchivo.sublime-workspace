@@ -523,11 +523,7 @@
 			"file": "Solicitudes_de_Expediente.py",
 			"settings":
 			{
-<<<<<<< HEAD
 				"buffer_size": 10329,
-=======
-				"buffer_size": 10399,
->>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
 				"line_ending": "Unix"
 			}
 		},
@@ -535,11 +531,7 @@
 			"file": "conexion.py",
 			"settings":
 			{
-<<<<<<< HEAD
-				"buffer_size": 202,
-=======
-				"buffer_size": 317,
->>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
+				"buffer_size": 204,
 				"line_ending": "Unix"
 			}
 		}
@@ -657,24 +649,15 @@
 					"file": "Solicitudes_de_Expediente.py",
 					"settings":
 					{
-<<<<<<< HEAD
 						"buffer_size": 10329,
-=======
-						"buffer_size": 10399,
->>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-<<<<<<< HEAD
-								0,
-								0
-=======
-								2783,
-								2783
->>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
+								2130,
+								2130
 							]
 						],
 						"settings":
@@ -693,19 +676,15 @@
 					"file": "conexion.py",
 					"settings":
 					{
-<<<<<<< HEAD
-						"buffer_size": 202,
-=======
-						"buffer_size": 317,
->>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
+						"buffer_size": 204,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								153,
+								153
 							]
 						],
 						"settings":

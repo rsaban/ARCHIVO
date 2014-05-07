@@ -4,7 +4,6 @@
 		"selected_items":
 		[
 			[
-<<<<<<< HEAD
 				"sOLI",
 				"Solicitante"
 			],
@@ -39,22 +38,6 @@
 			[
 				"tb",
 				"tbPaOtro"
-=======
-				"set",
-				"set_text"
-			],
-			[
-				"tb",
-				"tbCaja"
-			],
-			[
-				"ch",
-				"ckbtSalaArchivo"
-			],
-			[
-				"get",
-				"get_object"
->>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
 			],
 			[
 				"query",
@@ -213,13 +196,10 @@
 				"LABORA_CURSOS"
 			],
 			[
-<<<<<<< HEAD
 				"set",
 				"set_text"
 			],
 			[
-=======
->>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
 				"idaac",
 				"idaacoge"
 			],
@@ -232,13 +212,6 @@
 				"ventanaNuevoAAcoge"
 			],
 			[
-<<<<<<< HEAD
-=======
-				"fecha",
-				"fechaConsulta"
-			],
-			[
->>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
 				"try",
 				"try	Try/Except"
 			],
@@ -339,13 +312,6 @@
 				"fetchall"
 			],
 			[
-<<<<<<< HEAD
-=======
-				"tv",
-				"tvUC"
-			],
-			[
->>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
 				"idu",
 				"iduc"
 			],
@@ -530,13 +496,6 @@
 				"SELECT"
 			],
 			[
-<<<<<<< HEAD
-=======
-				"fech",
-				"fechaAdm"
-			],
-			[
->>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
 				"idmenor",
 				"idmenor"
 			],
@@ -555,21 +514,6 @@
 			[
 				"tbdni",
 				"tbFechaRenoDNI"
-<<<<<<< HEAD
-=======
-			],
-			[
-				"tbpas",
-				"tbPasFechaRenov"
-			],
-			[
-				"tbdn",
-				"tbFechaRenoDNI"
-			],
-			[
-				"tbpa",
-				"tbPasaporte"
->>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
 			]
 		]
 	},
@@ -587,11 +531,7 @@
 			"file": "conexion.py",
 			"settings":
 			{
-<<<<<<< HEAD
-				"buffer_size": 202,
-=======
-				"buffer_size": 317,
->>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
+				"buffer_size": 203,
 				"line_ending": "Unix"
 			}
 		}
@@ -665,10 +605,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-<<<<<<< HEAD
-=======
-			"Acordarme",
->>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
 			"no puede se",
 			"Delete",
 			"delete",
@@ -720,13 +656,8 @@
 						"selection":
 						[
 							[
-<<<<<<< HEAD
 								0,
 								0
-=======
-								2920,
-								2920
->>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
 							]
 						],
 						"settings":
@@ -735,7 +666,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 940.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -745,24 +676,15 @@
 					"file": "conexion.py",
 					"settings":
 					{
-<<<<<<< HEAD
-						"buffer_size": 202,
-=======
-						"buffer_size": 317,
->>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
+						"buffer_size": 203,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-<<<<<<< HEAD
-								0,
-								0
-=======
-								269,
-								269
->>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
+								152,
+								152
 							]
 						],
 						"settings":
@@ -811,11 +733,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-<<<<<<< HEAD
 		"height": 341.0
-=======
-		"height": 327.0
->>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
 	},
 	"replace":
 	{
