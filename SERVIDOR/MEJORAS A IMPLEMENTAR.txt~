@@ -1,0 +1,15 @@
+EN EL CLIENTE:
+- Controlar que el expediente introducido sea un número, no string.
+- Autocompletar con 0 hasta seis digitos.
+- Introducir campo para el número de caja (dato opcional)
+
+
+
+EN EL SERVIDOR:
+- Ordenar Treeview por Usuario y Número de caja
+- Mostrar la fecha de pedido al exportar. 
+
+
+EN LA BASE DE DATOS:
+- Cambiar tipo de dato en el expediente, para que no quite los 0 de delante.
+

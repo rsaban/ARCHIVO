@@ -1,0 +1,179 @@
+CLIENTE ARCHIVO
+CONTRATO DE LICENCIA PARA EL USUARIO FINAL
+
+IMPORTANTE. LEA DETENIDAMENTE: este Contrato de Licencia para el 
+Usuario Final ("CLUF") constituye un acuerdo legal entre usted (sea persona 
+física o jurídica) y el fabricante ("Fabricante") del sistema informático
+o de computación o componente de sistema informático o de computación 
+("HARDWARE") con el que usted adquirió el producto o productos de 
+software antes identificados ("SOFTWARE"). Los términos de 
+una copia impresa del CLUF, que puede acompañar al SOFTWARE, 
+sustituyen y anulan los términos de todo CLUF "en pantalla". 
+Al instalar, copiar, descargar, tener acceso o de otra manera utilizar el 
+SOFTWARE, usted acepta quedar obligado por los términos de este CLUF. 
+Si no está de acuerdo con estos términos, no podrá utilizar ni copiar el 
+SOFTWARE y deberá ponerse en contacto cuanto antes con el Fabricante, 
+para obtener instrucciones acerca de cómo devolver el producto o los 
+productos no utilizados de acuerdo con los requisitos de devolución del 
+Fabricante.
+
+LICENCIA DEL PRODUCTO SOFTWARE
+
+El término "EQUIPO" tal como se utiliza en el presente significará el 
+HARDWARE, si en el caso de que el HARDWARE sea un único 
+sistema informático o de computación, o significará el sistema 
+informático o de computación en el que funciona el HARDWARE, en el 
+caso de que el HARDWARE sea un componente de un sistema 
+informático o de computación.
+
+1.  OTORGAMIENTO DE LICENCIA. El Fabricante le concede los 
+    siguientes derechos, con la condición de que cumpla todos los 
+    términos y condiciones de este CLUF:
+
+*  Instalación y uso. Excepto en lo dispuesto expresamente de 
+   otra forma en el presente CLUF, usted puede instalar, utilizar, 
+   tener acceso, exhibir y ejecutar sólo una (1) copia del 
+   SOFTWARE en el EQUIPO. El SOFTWARE no puede ser 
+   utilizado por más de dos (2) procesadores a la vez en el 
+   EQUIPO, a menos que se indique un número mayor en el 
+   Certificado de Autenticidad. Puede permitir a un máximo de 
+   diez (10) ("Máximo de conexiones") equipos u otros 
+   dispositivos electrónicos (cada uno de ellos un "Dispositivo") 
+   conectarse al EQUIPO para utilizar los servicios del 
+   SOFTWARE sólo para servicios de archivo e impresión, 
+   servicios de Internet Information Server y acceso remoto 
+   (incluyendo el uso compartido de conexiones y los servicios de 
+   telefonía). El máximo de diez (10) conexiones incluye 
+   cualquier conexión indirecta realizada mediante "multiplexado" 
+   u otro software o hardware que agrupe o agregue conexiones. 
+   Excepto que se permita lo contrario a continuación, usted no 
+   podrá utilizar el Dispositivo para usar, tener acceso, exhibir o 
+   ejecutar el SOFTWARE, la interfaz de usuario del 
+   SOFTWARE u otro software ejecutable que resida en el 
+   EQUIPO.
+
+*  Software como componente del equipo: transferencia. NO PODRÁ 
+   COMPARTIR, TRANSFERIR NI USAR SIMULTÁNEAMENTE 
+   ESTA LICENCIA EN DIFERENTES DISPOSITIVOS. El 
+   SOFTWARE se concede bajo licencia con el HARDWARE como 
+   un único producto integrado y sólo puede utilizarse con el 
+   HARDWARE. Si el SOFTWARE no va acompañado de nuevo 
+   HARDWARE, no podrá utilizar el SOFTWARE. Todos los 
+   derechos que se conceden en el presente CLUF podrán 
+   transferirse de manera definitiva, sólo como parte de una 
+   transferencia o venta permanente del HARDWARE, con la 
+   condición de que usted no conserve ninguna copia en caso de que 
+   transfiera el SOFTWARE completo (incluyendo todas las partes 
+   componentes, los medios y los materiales impresos, cualquier 
+   actualización, este CLUF y el Certificado de Autenticidad 
+   (Certificate of Authenticity)) y de que el destinatario acepte los 
+   términos de este CLUF. Si el SOFTWARE es una actualización, 
+   toda cesión deberá incluir también todas las versiones anteriores 
+   del SOFTWARE. 
+
+*  Activación obligatoria. ESTE SOFTWARE DISPONE DE 
+   MEDIDAS TECNOLÓGICAS DISEÑADAS PARA IMPEDIR EL 
+   USO SIN LICENCIA O ILEGAL DEL MISMO. Los derechos de 
+   licencia concedidos en el presente CLUF están limitados a los 
+   primeros treinta (30) días después de ejecutar por primera vez el 
+   SOFTWARE, a menos que suministre la información necesaria 
+   para activar la copia con licencia de la manera descrita durante la 
+   secuencia de instalación (salvo si el Fabricante la activó por 
+   usted). 
+
+*  Copia de seguridad o de respaldo. Si el Fabricante no ha incluido 
+   una copia de seguridad o de respaldo del SOFTWARE con el 
+   EQUIPO en un medio físico (por ejemplo, un CD o una unidad de 
+   disco duro con particiones), podrá hacer una única copia de 
+   seguridad del SOFTWARE que podrá utilizar únicamente con fines 
+   de archivo y para reinstalar el SOFTWARE en el EQUIPO. 
+   Excepto en lo dispuesto expresamente en el presente CLUF o por 
+   la legislación local, no podrá hacer de ninguna otra manera copias 
+   del SOFTWARE, incluidos los materiales impresos que 
+   acompañan al SOFTWARE. No podrá prestar, alquilar, arrendar o 
+   de otra manera transferir el CD o la copia de seguridad a otro 
+   usuario. 
+
+*  Reserva de derechos. El Fabricante, Rafael Sabán Alcántara, 
+   se 
+   reserva todos los derechos que no le son concedidos 
+   expresamente a usted en el presente CLUF.
+
+2.  DESCRIPCIÓN DE OTROS DERECHOS Y LIMITACIONES.
+
+*  Limitaciones en materia de ingeniería inversa, descompilación y 
+   desensamblaje. Usted no podrá utilizar técnicas de ingeniería 
+   inversa, descompilar ni desensamblar el SOFTWARE, excepto y 
+   únicamente en la medida en que dicha actividad esté 
+   expresamente permitida por la legislación aplicable, no obstante la 
+   presente limitación.
+
+*  Separación de componentes. El SOFTWARE se concede bajo 
+   licencia como un único producto. Sus partes componentes no 
+   pueden separarse para su utilización en más de un equipo o PC.
+
+*  CLUF único. El paquete del SOFTWARE puede contener 
+   múltiples versiones de este CLUF, tales como múltiples 
+   traducciones o versiones en distintos medios (por ejemplo en la 
+   documentación de usuario y en el software). En este caso, sólo se 
+   le concede licencia para utilizar una (1) copia del SOFTWARE.
+
+*  Terminación. Sin perjuicio de cualquier otro derecho, el Fabricante 
+   podrá resolver este CLUF si usted no cumple los términos y 
+   condiciones del mismo. En dicho caso, usted deberá destruir todas 
+   las copias del SOFTWARE y todas sus partes componentes.
+
+*  Marcas comerciales. Este CLUF no le concede ningún derecho en 
+   relación con las marcas comerciales o marcas de servicio del 
+   Fabricante.
+
+
+3.  DERECHOS DE PROPIEDAD INTELECTUAL. La titularidad y 
+    derechos de propiedad intelectual con respecto al SOFTWARE 
+    (incluyendo, pero sin limitarse a, imágenes, fotografías, animaciones, 
+    vídeo, audio, música, texto y "applets" o subprogramas incorporados 
+    al SOFTWARE), los materiales impresos que lo acompañan y toda 
+    copia del SOFTWARE son propiedad de Rafael Sabán Alcántara. El SOFTWARE se otorga bajo 
+    licencia y no es objeto de venta. La titularidad y los derechos de 
+    propiedad intelectual correspondientes al contenido que no forman 
+    parte del SOFTWARE, pero a los que se puede tener acceso 
+    mediante la utilización del SOFTWARE, son propiedad del 
+    respectivo propietario del contenido y pueden estar protegidos por 
+    las leyes y tratados sobre derechos de autor y propiedad intelectual 
+    aplicables. El uso de los servicios "on line" a los que se puede tener 
+    acceso a través del SOFTWARE, puede regirse por los respectivos 
+    términos de uso relativos a dichos servicios. Si este SOFTWARE 
+    contiene documentación que se proporciona sólo en forma 
+    electrónica, usted podrá imprimir una copia de dicha documentación 
+    electrónica. No podrá copiar los materiales impresos que 
+    acompañan al SOFTWARE. 
+
+4.  DISPOSICIONES ADICIONALES. CON RESPECTO A LAS 
+    GARANTÍAS LIMITADAS, LA LIMITACIÓN DE 
+    RESPONSABILIDAD Y OTRAS DISPOSICIONES ESPECIALES, 
+    CONSULTE LAS DISPOSICIONES ADICIONALES 
+    PROPORCIONADAS A CONTINUACIÓN Y/O DE OTRO MODO 
+    CON EL SOFTWARE. DICHAS GARANTÍAS LIMITADAS, 
+    LIMITACIÓN DE RESPONSABILIDAD Y DISPOSICIONES 
+    ESPECIALES SON PARTE INTEGRAL DE ESTE CLUF.
+
+
+
+LA PRESENTE GARANTIA LIMITADA SE REGIRA POR LAS 
+LEYES DE ESPAÑA
+
+
+NO HAY RESPONSABILIDAD POR DAÑOS EMERGENTES. En 
+la máxima medida permitida por la legislación española , el 
+Fabricante no se responsabilizará de 
+daños (incluyendo, entre otros, daños directos o indirectos por 
+lesiones a las personas, lucro cesante, interrupción de actividad 
+comercial, pérdida de información comercial o cualquier otra 
+pérdida pecuniaria) que se derive del uso o incapacidad de usar 
+este producto, incluso si el Fabricante ha sido informado 
+de la posibilidad de tales daños. 
+
+
+El presente Contrato de Licencia de Software se rige por las leyes de 
+España.
+

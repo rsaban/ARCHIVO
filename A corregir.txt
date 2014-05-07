@@ -1,0 +1,18 @@
+EN EL SERVIDOR:
+
+- Completar log con todos los datos. No le gusta el "Sin comentarios" **LISTO**
+- Ordenar por: CAJA - EXPEDIENTE **LISTO**
+- Exportar todo el treeview si no se seleccionan filas. **LISTO**
+- Ordena primero un 1900 que un 200 (ver si se puede corregir) **LISTO**
+
+
+EN EL CLIENTE:
+
+- Que pongan número de Caja **LISTO**
+- Que no se escriba el número de expediente en el textbox de "Pa Otro" **LISTO**
+- Mensaje de expediente solicitado en un label sobre la aplicación, no en emergente. Incluir número de expediente en el mensaje. **LISTO**
+- AcceptButton
+
+
+
+EN LA BASE DE DATOS:

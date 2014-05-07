@@ -1,0 +1,13 @@
+EN EL CLIENTE:
+- El tbCaja dejarlo sólo para números. **LISTO**
+- Añadir Casillas por si está en Sala Archivos o Archivo Definitivo.**LISTO**
+- Mensaje al escribir texto en el tbCaja ("Si no está en Caja,Sala Archivo o A. Definitivo, pidelo a quien lo tenga o al responsable del archivo donde se encuentre)**LISTO**
+
+
+EN EL SERVIDOR:
+- Si el cliente ha marcado "Lo necesito a lo largo de la mañana" que apareza en la columna correspondiente "URGENTE". Si no marca nada, que aparezca ""**LISTO**
+- Nueva columna para el lugar (sala archivo, definitivo)**LISTO**
+
+
+EN LA BASE DE DATOS:
+- Añadir columna para el lugar (sala archivo, definitivo)**LISTO**

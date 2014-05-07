@@ -1,0 +1,847 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+<<<<<<< HEAD
+				"sOLI",
+				"Solicitante"
+			],
+			[
+				"fech",
+				"fechaHoy"
+			],
+			[
+				"GET_SELE",
+				"get_selected_rows"
+			],
+			[
+				"get",
+				"get_iter"
+			],
+			[
+				"tv",
+				"tvSolicitudes"
+			],
+			[
+				"fecha",
+				"fechaPedido"
+			],
+			[
+				"FECHA",
+				"fechaPedido"
+			],
+			[
+				"rb",
+				"rbDiaSolicitud"
+			],
+			[
+				"tb",
+				"tbPaOtro"
+=======
+				"set",
+				"set_text"
+			],
+			[
+				"tb",
+				"tbCaja"
+			],
+			[
+				"ch",
+				"ckbtSalaArchivo"
+			],
+			[
+				"get",
+				"get_object"
+>>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
+			],
+			[
+				"query",
+				"queryVerSiEstaPedido"
+			],
+			[
+				"lstv",
+				"lstvPartTaller"
+			],
+			[
+				"idt",
+				"idtaller"
+			],
+			[
+				"tal",
+				"TALLERES_TS"
+			],
+			[
+				"FEC",
+				"fechaFin"
+			],
+			[
+				"FECH",
+				"fechaInicio"
+			],
+			[
+				"NOMB",
+				"nombreTaller"
+			],
+			[
+				"tbfe",
+				"tbFechaInicio"
+			],
+			[
+				"Id",
+				"IdMenor"
+			],
+			[
+				"ID",
+				"IdExpdte"
+			],
+			[
+				"from",
+				"FROM"
+			],
+			[
+				"tbfecha",
+				"tbFechaAdmision"
+			],
+			[
+				"tbfech",
+				"tbFechaAdmision"
+			],
+			[
+				"cbxd",
+				"cbxTipoDoc"
+			],
+			[
+				"resul",
+				"resultadoActivo"
+			],
+			[
+				"getac",
+				"get_active_text"
+			],
+			[
+				"centro",
+				"centroObtenido"
+			],
+			[
+				"fetch",
+				"fetchone"
+			],
+			[
+				"ventanasele",
+				"ventanaSelecCentroEducativo"
+			],
+			[
+				"ventanaSele",
+				"ventanaSelecCentroEducativo"
+			],
+			[
+				"obsn",
+				"obs_ne"
+			],
+			[
+				"lbmos",
+				"lbMostrarExpdte"
+			],
+			[
+				"tbobs",
+				"tbObservColegio"
+			],
+			[
+				"EXTUT",
+				"EXTUT_ENTIDADES"
+			],
+			[
+				"EXTU",
+				"EXTUT_ENTIDADES"
+			],
+			[
+				"btelimin",
+				"btEliminarEntidadExtut"
+			],
+			[
+				"IdE",
+				"IdEEmpresa"
+			],
+			[
+				"EXT",
+				"EXTUT"
+			],
+			[
+				"extut",
+				"EXTUT_PROPUESTAS"
+			],
+			[
+				"fetc",
+				"fetchone"
+			],
+			[
+				"r",
+				"resultadoConsultaSAE"
+			],
+			[
+				"iDEX",
+				"IdExtranjeria"
+			],
+			[
+				"extranj",
+				"EXTRANJERIA_EMPRESA"
+			],
+			[
+				"Idex",
+				"IdExtranjeria"
+			],
+			[
+				"cargartvcon",
+				"cargartvConsultasSGIT"
+			],
+			[
+				"tvcons",
+				"tvConsultasCRoja"
+			],
+			[
+				"cruz",
+				"CRUZ_ROJA"
+			],
+			[
+				"LABORA",
+				"LABORA_PRACTICAS"
+			],
+			[
+				"labor",
+				"LABORA_CURSOS"
+			],
+			[
+<<<<<<< HEAD
+				"set",
+				"set_text"
+			],
+			[
+=======
+>>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
+				"idaac",
+				"idaacoge"
+			],
+			[
+				"ls",
+				"lsAAcoge"
+			],
+			[
+				"ventana",
+				"ventanaNuevoAAcoge"
+			],
+			[
+<<<<<<< HEAD
+=======
+				"fecha",
+				"fechaConsulta"
+			],
+			[
+>>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"btaceptarsel",
+				"btAceptarSelecTecnico"
+			],
+			[
+				"ventanasel",
+				"ventanaSelecTecnico"
+			],
+			[
+				"IDCITA",
+				"idcitasae"
+			],
+			[
+				"tvcitas",
+				"tvRegistroCitas"
+			],
+			[
+				"IdCita",
+				"IdCitaOrienta"
+			],
+			[
+				"ORIEN",
+				"ORIENTA_CITAS"
+			],
+			[
+				"cargartvci",
+				"cargartvCitasOrienta"
+			],
+			[
+				"ventanapro",
+				"ventanaProxCitaSAE"
+			],
+			[
+				"cargartvc",
+				"cargartvCitasSAE"
+			],
+			[
+				"SAE",
+				"SAE_CITAS"
+			],
+			[
+				"sae",
+				"SAE_CITAS"
+			],
+			[
+				"tbdet",
+				"tbDetalles"
+			],
+			[
+				"tbfec",
+				"tbFechaContTS"
+			],
+			[
+				"ventanacont",
+				"ventanaContactosTS"
+			],
+			[
+				"cargartv",
+				"cargartvContacTs"
+			],
+			[
+				"lstvc",
+				"lstvContacTs"
+			],
+			[
+				"ventanacon",
+				"ventanaContactosTS"
+			],
+			[
+				"idrcf",
+				"idrcf"
+			],
+			[
+				"reg",
+				"REGIMEN_CONTACTOS_FAMILIA"
+			],
+			[
+				"R",
+				"REGIMEN_CONTACTOS_FAMILIA"
+			],
+			[
+				"tbfechacon",
+				"tbFechaConFam"
+			],
+			[
+				"tbho",
+				"tbHoraContacFam"
+			],
+			[
+				"ventanacontac",
+				"ventanaContacFam"
+			],
+			[
+				"feth",
+				"fetchall"
+			],
+			[
+<<<<<<< HEAD
+=======
+				"tv",
+				"tvUC"
+			],
+			[
+>>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
+				"idu",
+				"iduc"
+			],
+			[
+				"fi",
+				"fixed1"
+			],
+			[
+				"res",
+				"resultadoDetalleFam"
+			],
+			[
+				"consu",
+				"consultado1"
+			],
+			[
+				"ar",
+				"AREA_SOCIAL"
+			],
+			[
+				"lbmost",
+				"lbMostrarExpdte"
+			],
+			[
+				"btace",
+				"btAceptarFamiliar"
+			],
+			[
+				"lbm",
+				"lbMostrarExpdte"
+			],
+			[
+				"PAREN",
+				"paren"
+			],
+			[
+				"FAM",
+				"fam"
+			],
+			[
+				"ANTECED",
+				"anteced"
+			],
+			[
+				"consul",
+				"consultado3"
+			],
+			[
+				"lsesta",
+				"lsEstadoPermisoTrabajo"
+			],
+			[
+				"lstip",
+				"lsTipoPermisoTrabajo"
+			],
+			[
+				"lspr",
+				"lsPracticas"
+			],
+			[
+				"tbte",
+				"tbTelefonoLabora"
+			],
+			[
+				"tbori",
+				"tbOrientadorLabora"
+			],
+			[
+				"tbfechain",
+				"tbFechaInicioOrienta"
+			],
+			[
+				"tbdir",
+				"tbDireccionOrienta"
+			],
+			[
+				"cbxsit",
+				"cbxSitJud"
+			],
+			[
+				"lssit",
+				"lsSitLaboral"
+			],
+			[
+				"cbxtip",
+				"cbxTipoVivienda"
+			],
+			[
+				"con",
+				"consultado1"
+			],
+			[
+				"lbmo",
+				"lbMostrarExpdte"
+			],
+			[
+				"idsae",
+				"idsae"
+			],
+			[
+				"ge",
+				"get_text"
+			],
+			[
+				"form",
+				"formRegl"
+			],
+			[
+				"ex",
+				"execute"
+			],
+			[
+				"ANTECE",
+				"anteced"
+			],
+			[
+				"lb",
+				"lbMostrarExpdte"
+			],
+			[
+				"tbd",
+				"tbDNI"
+			],
+			[
+				"not",
+				"notebook1"
+			],
+			[
+				"tbOrienta",
+				"tbOrientadorLabora"
+			],
+			[
+				"tbofici",
+				"tbOficinaOrienta"
+			],
+			[
+				"tbdetall",
+				"tbDetalleLegal"
+			],
+			[
+				"sel",
+				"selecFam"
+			],
+			[
+				"cb",
+				"cbxEstado"
+			],
+			[
+				"vent",
+				"ventanaProxCitaSAE"
+			],
+			[
+				"pr",
+				"proxCitaSAE"
+			],
+			[
+				"vena",
+				"ventanaSelecFam"
+			],
+			[
+				"venta",
+				"ventanaSelecFam"
+			],
+			[
+				"ventan",
+				"ventanaContacFam"
+			],
+			[
+				"date",
+				"dateFormat5"
+			],
+			[
+				"dat",
+				"dateFormat"
+			],
+			[
+				"bu",
+				"busquedaDni"
+			],
+			[
+				"SE",
+				"SELECT"
+			],
+			[
+<<<<<<< HEAD
+=======
+				"fech",
+				"fechaAdm"
+			],
+			[
+>>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
+				"idmenor",
+				"idmenor"
+			],
+			[
+				"EXP",
+				"EXPEDIENTE"
+			],
+			[
+				"w",
+				"WHERE"
+			],
+			[
+				"exp",
+				"expdte"
+			],
+			[
+				"tbdni",
+				"tbFechaRenoDNI"
+<<<<<<< HEAD
+=======
+			],
+			[
+				"tbpas",
+				"tbPasFechaRenov"
+			],
+			[
+				"tbdn",
+				"tbFechaRenoDNI"
+			],
+			[
+				"tbpa",
+				"tbPasaporte"
+>>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Solicitar_Expediente.py",
+			"settings":
+			{
+				"buffer_size": 8733,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "conexion.py",
+			"settings":
+			{
+<<<<<<< HEAD
+				"buffer_size": 202,
+=======
+				"buffer_size": 317,
+>>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 369.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/rafa/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/rafa/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/rafa/MIS APLICACIONES/ALPHAS/ICARO/ts.py",
+		"/media/Disco 3TB/1 ROCIO/COMUNIDAD/GASTOS-INGRESOS PROPIETARIOS/GASTOS-INGRESOS '13/.~lock.RELACIÓN MOVIMIENTOS COMUNIDAD '13.doc#",
+		"/home/rafa/MIS APLICACIONES/ALPHAS/ICARO/Main.py",
+		"/home/rafa/MIS APLICACIONES/ALPHAS/ICARO/conexion.py",
+		"/home/rafa/MIS APLICACIONES/ALPHAS/ICARO/eleccion.py",
+		"/home/rafa/MIS APLICACIONES/ALPHAS/ICARO/nuevoExpdte.py",
+		"/home/rafa/MIS APLICACIONES/ALPHAS/ICARO/busqueda.py",
+		"/home/rafa/MIS APLICACIONES/ALPHAS/ICARO/ficha.py",
+		"/home/rafa/MIS APLICACIONES/ALPHAS/ICARO/herramientas.py",
+		"/home/rafa/MIS APLICACIONES/ALPHAS/ICARO/controlUsuarios.py",
+		"/home/rafa/MIS APLICACIONES/ALPHAS/TRACING/buscar.py",
+		"/home/rafa/MIS APLICACIONES/ALPHAS/TRACING/main.py",
+		"/home/rafa/MIS APLICACIONES/ALPHAS/MySOCIAL/Main.py",
+		"/home/rafa/MIS APLICACIONES/ALPHAS/MySOCIAL/conexion.py",
+		"/home/rafa/MIS APLICACIONES/ALPHAS/MySOCIAL/eleccion.py",
+		"/home/rafa/MIS APLICACIONES/ALPHAS/MySOCIAL/busqueda.py",
+		"/home/rafa/MIS APLICACIONES/ALPHAS/MySOCIAL/nuevoExpdte.py",
+		"/home/rafa/MIS APLICACIONES/ALPHAS/MySOCIAL/ficha.py",
+		"/home/rafa/PYTHON/Sublime Text/bdUsuarios/bdUsuarios.py",
+		"/home/rafa/.config/sublime-text-2/Packages/User/def.sublime-snippet",
+		"/home/rafa/PYTHON/Sublime Text/bdUsuarios con conexion en modulo separado y encriptacion de clave/bdUsuarios.py",
+		"/home/rafa/PYTHON/Sublime Text/bdUsuarios/conexion.py",
+		"/home/rafa/PYTHON/Sublime Text/2 Ventanas/form1.py",
+		"/home/rafa/PYTHON/Proyectos Geany/PROYECTO 1/form1.py",
+		"/home/rafa/PYTHON/Sublime Text/Proyecto1.py",
+		"/home/rafa/.config/sublime-text-2/Packages/User/Plain text.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+<<<<<<< HEAD
+=======
+			"Acordarme",
+>>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
+			"no puede se",
+			"Delete",
+			"delete",
+			"return",
+			"tallerTS",
+			"tall",
+			"tallerTS",
+			"lbcerrado",
+			"pulse",
+			"reabri",
+			"max",
+			"Max",
+			"Ma",
+			"max",
+			"idmenor",
+			"*",
+			"iduc",
+			"UPDATE",
+			"ano"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Solicitar_Expediente.py",
+					"settings":
+					{
+						"buffer_size": 8733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+<<<<<<< HEAD
+								0,
+								0
+=======
+								2920,
+								2920
+>>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "conexion.py",
+					"settings":
+					{
+<<<<<<< HEAD
+						"buffer_size": 202,
+=======
+						"buffer_size": 317,
+>>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+<<<<<<< HEAD
+								0,
+								0
+=======
+								269,
+								269
+>>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+<<<<<<< HEAD
+		"height": 341.0
+=======
+		"height": 327.0
+>>>>>>> 9e79306f4628b294ebe35f5dc2a40e07dd184513
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
